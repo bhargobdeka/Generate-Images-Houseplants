@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Data and MacOS
+.DS_Store
+Houseplant_Photos/
+
 # Distribution / packaging
 .Python
 build/
