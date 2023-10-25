@@ -1,0 +1,5 @@
+numpy~=1.19.5
+tensorflow==2.5
+matplotlib 
+tensorflow-datasets 
+ipywidgets
